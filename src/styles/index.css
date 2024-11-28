@@ -71,11 +71,6 @@ body::before {
 }
 
 @font-face {
-  src: url("/public/fonts/IBMPlexMono-Thin.ttf") format(truetype);
-  font-family: "IBM Plex Mono Subtitle";
-}
-
-@font-face {
   src: url("/public/fonts/IBMPlexMono-Regular.ttf") format(truetype);
   font-family: "IBM Plex Mono Base";
 }
