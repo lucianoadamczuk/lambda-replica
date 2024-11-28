@@ -1,0 +1,82 @@
+{
+  "navbar": [
+    { "text": "Acerca", "path": "#about" },
+    { "text": "Qué hacemos", "path": "#whatWeDo" },
+    { "text": "Valores", "path": "#ourValues" },
+    { "text": "Preguntas Frecuentes", "path": "#frequentQuestions" }
+  ],
+  "header": {
+    "title": "Somos",
+    "subtitle": "tecnología profunda, impacto profundo"
+  },
+  "about": {
+    "paragraph_1": "Lambda es un estudio de empresas de tecnología profunda y firma de inversión con experiencia en una variedad de industrias, incluyendo videojuegos, aprendizaje automático, criptografía, diseño de bases de datos, sistemas distribuidos, lenguajes de programación, desarrollo de compiladores, trading de alta frecuencia, pujas en tiempo real, dispositivos embebidos, aeroespacial y biotecnología.",
+    "phrase": "Trabajamos en la intersección entre la investigación y la ingeniería.",
+    "paragraph_2": "Fundada en 2014 en Buenos Aires, Argentina, Lambda ha expandido su presencia para incluir oficinas en Montevideo (Uruguay), Madrid y Barcelona (España), y París (Francia). Estamos dedicados a alcanzar la excelencia y entregar proyectos rápidamente."
+  },
+  "whatWeDo": {
+    "title": "Qué hacemos",
+    "paragraph_1": "En el mundo de la tecnología en constante cambio, Lambda está comprometida a empoderar a los ingenieros para resolver desafíos complejos con pasión por el progreso.",
+    "paragraph_2": "Nuestra misión se basa en la creencia de que las soluciones ingeniosas deben ser perseguidas por encima de las ganancias económicas o simbólicas."
+  },
+  "values": {
+    "title": "Nuestros Valores",
+    "items": [
+      {
+        "title": "Solo código, sin tonterías",
+        "paragraph": "Priorizamos los resultados sobre la retórica, valorando las contribuciones auténticas que generan impacto."
+      },
+      {
+        "title": "Integridad",
+        "paragraph": "Adoptamos la apertura y la sinceridad, ya que la honestidad es la piedra angular de una comunidad fuerte."
+      },
+      {
+        "title": "Código abierto",
+        "paragraph": "Somos fervientes defensores de los valores del código abierto, reconociendo el poder del conocimiento compartido y la colaboración."
+      },
+      {
+        "title": "Menos es más",
+        "paragraph": "Nuestro principio de hacer lo más simple que pueda funcionar nos mantiene ágiles y efectivos en la resolución de problemas."
+      },
+      {
+        "title": "Fracasa rápido",
+        "paragraph": "Aceptando los contratiempos como experiencias de aprendizaje, fomentamos una cultura que promueve el crecimiento a través del fracaso."
+      }
+    ]
+  },
+  "workWithUs": {
+    "title": "Trabaja con nosotros",
+    "paragraph_1": "Creemos en la transparencia y queremos que sepas que tanto nuestro proceso de selección como el año de integración son exigentes. Están diseñados para desafiarte y ayudarte a crecer.",
+    "paragraph_2": "El 60% de los postulantes no completan el proceso de selección, y el 50% de quienes se unen a nosotros no continúan después del año inicial debido a diferencias culturales, técnicas o metodológicas.",
+    "paragraph_3": "Vemos esto como una oportunidad de aprendizaje y crecimiento.",
+    "paragraph_4": "Puedes leer más sobre nuestra cultura",
+    "paragraph_4_span": "aquí",
+    "paragraph_5": "Si tienes pasión por resolver problemas y un impulso por innovar, ¡queremos saber de ti! Contáctanos",
+    "paragraph_5_span": "aquí"
+  },
+  "FAQ": {
+    "title": "Preguntas Frecuentes",
+    "items": [
+      {
+        "question": "¿Puedo trabajar de forma remota para Lambda?",
+        "answer": "Para el tipo de trabajo que hacemos, creemos que el trabajo remoto no es particularmente útil."
+      },
+      {
+        "question": "¿Cuál es la metodología de Lambda con los socios?",
+        "answer": "En Lambda, no trabajamos por horas ni realizamos aumentos de personal. En su lugar, establecemos metas compartidas con nuestros socios y trabajamos de manera independiente, empleando nuestra metodología y mantra para lograr resultados."
+      },
+      {
+        "question": "¿Qué significa que Lambda trabaja de forma independiente?",
+        "answer": "Es simple. Cuando trabajas con Lambda o entras en una asociación con nosotros, no estás contratando desarrolladores; estás asociándote con otra empresa. Aseguramos una comunicación fluida y responsabilidad por nuestro trabajo, pero lo hacemos a nuestra manera. Sabemos cómo hacerlo."
+      },
+      {
+        "question": "¿Dónde puedo ver lo que están haciendo?",
+        "answer": "Nuestro aprendizaje y experiencia se reflejan en nuestro https://blog.lambdaclass.com/. Publicamos regularmente nuestras experiencias y proyectos."
+      }
+    ]
+  },
+  "footer": {
+    "paragraph": "¡LAMBDA es un estudio de empresas de tecnología profunda y firma de inversión con experiencia en una variedad de industrias!",
+    "copyright": "Todos los derechos reservados"
+  }
+}

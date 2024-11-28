@@ -1,0 +1,37 @@
+.logoContainer {
+  display: flex;
+  justify-content: center;
+  margin-bottom: var(--space-sm);
+  padding: 0 var(--space-x);
+}
+
+.logo {
+  width: 100%;
+  max-width: 400px;
+}
+
+.logo path {
+  fill: transparent;
+  stroke: var(--color-gray-dark);
+  stroke-width: 1;
+  stroke-dasharray: 800;
+  stroke-dashoffset: 800;
+  transition-duration: 1s;
+}
+
+.animateLogo path {
+  animation: animate 2s ease-out forwards;
+}
+
+@keyframes animate {
+  0% {
+    stroke-dashoffset: 800;
+  }
+  50% {
+    fill: transparent;
+  }
+  100% {
+    fill: var(--color-gray-dark);
+    stroke-dashoffset: 0;
+  }
+}

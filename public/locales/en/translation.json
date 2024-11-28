@@ -1,0 +1,82 @@
+{
+  "navbar": [
+    { "text": "About", "path": "#about" },
+    { "text": "What we do", "path": "#whatWeDo" },
+    { "text": "Our Values", "path": "#ourValues" },
+    { "text": "FAQ", "path": "#frequentQuestions" }
+  ],
+  "header": {
+    "title": "We are",
+    "subtitle": "from deep tech to deep impact"
+  },
+  "about": {
+    "paragraph_1": "Lambda is a deep tech venture studio and investment firm with expertise in a variety of industries, including gaming, machine learning, cryptography, database design, distributed systems, programming languages, compiler development, high-frequency trading, real-time bidding, embedded devices, aerospace, and biotech.",
+    "phrase": "We work in the intersection of research and engineering.",
+    "paragraph_2": "Founded in 2014 in Buenos Aires, Argentina, Lambda has expanded its presence to include offices in Montevideo (Uruguay), Madrid and Barcelona (Spain), and Paris (France). We are dedicated to achieving excellence and delivering projects quickly."
+  },
+  "whatWeDo": {
+    "title": "Whay we do",
+    "paragraph_1": "In the rapidly changing world of technology, Lambda is committed to empowering engineers to solve complex challenges with a passion for progress.",
+    "paragraph_2": "Our mission is rooted in the belief that ingenious solutions should be pursued over economic or symbolic gains."
+  },
+  "values": {
+    "title": "Our Values",
+    "items": [
+      {
+        "title": "Just code, no bullshit",
+        "paragraph": "We prioritize results over rhetoric, valuing authentic contributions that drive impact."
+      },
+      {
+        "title": "Integrity",
+        "paragraph": "We embrace openness and truthfulness, as honesty is the cornerstone of a strong community."
+      },
+      {
+        "title": "Open source",
+        "paragraph": "We are ardent proponents of open source values, recognizing the power of shared knowledge and collaboration."
+      },
+      {
+        "title": "Less is more",
+        "paragraph": "Our principle of doing the simplest thing that could work keeps us agile and effective in our problem-solving."
+      },
+      {
+        "title": "Fail fast",
+        "paragraph": "Embracing setbacks as learning experiences, we encourage a culture that embraces growth through failure."
+      }
+    ]
+  },
+  "workWithUs": {
+    "title": "Work with us!",
+    "paragraph_1": "We believe in transparency and want you to know that both our selection process and the onboarding year are demanding. They're designed to challenge you and help you grow.",
+    "paragraph_2": "While 60% of applicants do not complete the selection process, and 50% of those who join us do not continue after the foundational year due to cultural, technical, or methodological differences",
+    "paragraph_3": "We see this as an opportunity for learning and growth.",
+    "paragraph_4": "You can read more about our culture",
+    "paragraph_4_span": "here",
+    "paragraph_5": "If you have a passion for solving problems and a drive to innovate, we want to hear from you! Reach out to us",
+    "paragraph_5_span": "here"
+  },
+  "FAQ": {
+    "title": "Frequenty asked Questions",
+    "items": [
+      {
+        "question": "Can I work remotely for Lambda?",
+        "answer": "For the type of work we do we think remote work is not particularly useful."
+      },
+      {
+        "question": "What is Lambda's methodology with partners?",
+        "answer": "At Lambda, we do not work on an hourly basis or engage in staff augmentation. Instead, we establish shared goals with our partners and work independently, employing our methodology and mantra to achieve results."
+      },
+      {
+        "question": "What does it mean that Lambda works independently?",
+        "answer": "It's simple. When you work with Lambda or enter into a partnership with us, you are not just hiring developers; you are partnering with another company. We ensure fluid communication and accountability for our work, but we will do it our way. We know how to do it."
+      },
+      {
+        "question": "Where can I see what you are up to?",
+        "answer": "Our learning and expertise is reflected on our https://blog.lambdaclass.com/. We regularly publish our experiences and projects."
+      }
+    ]
+  },
+  "footer": {
+    "paragraph": "LAMBDA is a deep tech venture studio and investment firm with expertise in a variety of industries!",
+    "copyright": "All right reserved"
+  }
+}
